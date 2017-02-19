@@ -11,6 +11,7 @@ The following Ipython notebooks are available on this repository.
 6. Machine Learning with Text Count Vectorizer - Text Analytics cv.ipynb <br />
 7. Machine Learning with Text TF- IDF. Text Analytics tfidf.ipynb <br />
 8. Live Sentiment Analysis - livesenti.py <br />
+9. Perceptron And Gradient Descent - Perceptron And Gradient Descent.ipnb<br/> 
 
 
 Apart from this the datasets used are housing.csv, mnist.csv and smsspam
