@@ -3,6 +3,8 @@ This repository contains the Ipython Notebooks to the Data Analytics youtube tut
 The youtube link for the tutorials :https://www.youtube.com/c/thesemicolon
 
 The following Ipython notebooks are available on this repository. 
+
+Python for Data Analytics
 1. Learn Python in 10 Minutes -  python 2.7 Basics.ipynb <br />
 2. Numpy and Matplotlib Tutorial - Numpy and matplotlib.ipynb <br />
 3. Pandas tutorial - Pandas Tutorial.ipynb <br />
@@ -13,6 +15,10 @@ The following Ipython notebooks are available on this repository.
 8. Live Sentiment Analysis - livesenti.py <br />
 9. Perceptron And Gradient Descent - Perceptron And Gradient Descent.ipnb<br/> 
 10. Neural Networks and Backpropogation Algorithm - Neural Networks and backpropogation.ipnb <br>
+
+Deep Learning with Keras 
+1. cnn.py - Convolutional Neural Networks with Keras <br>
+
 
 
 Apart from this the datasets used are housing.csv, mnist.csv and smsspam
