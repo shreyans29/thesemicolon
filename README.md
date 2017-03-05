@@ -14,10 +14,11 @@ Python for Data Analytics
 7. Machine Learning with Text TF- IDF. Text Analytics tfidf.ipynb <br />
 8. Live Sentiment Analysis - livesenti.py <br />
 9. Perceptron And Gradient Descent - Perceptron And Gradient Descent.ipnb<br/> 
-10. Neural Networks and Backpropogation Algorithm - Neural Networks and backpropogation.ipnb <br>
+10. Neural Networks and Backpropogation Algorithm - Neural Networks and backpropogation.ipnb <br/>
 
 Deep Learning with Keras 
-1. cnn.py - Convolutional Neural Networks with Keras <br>
+1. cnn.py - Convolutional Neural Networks with Keras <br/>
+2. word2vec.py - Word2vec implementation in gensim <br/>
 
 
 
