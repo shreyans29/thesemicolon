@@ -16,10 +16,10 @@ Python for Data Analytics
 9. Perceptron And Gradient Descent - Perceptron And Gradient Descent.ipnb<br/> 
 10. Neural Networks and Backpropogation Algorithm - Neural Networks and backpropogation.ipnb <br/>
 
-Deep Learning with Keras 
+Deep Learning with Keras <br />
 1. cnn.py - Convolutional Neural Networks with Keras <br/>
 2. word2vec.py - Word2vec implementation in gensim <br/>
-
+3. Lstm-rnn.py - simple LSTM implementation with Keras <br />
 
 
 Apart from this the datasets used are housing.csv, mnist.csv and smsspam
