@@ -4,22 +4,22 @@ The youtube link for the tutorials :https://www.youtube.com/c/thesemicolon
 
 The following Ipython notebooks are available on this repository. 
 
-<H3>Python for Data Analytics </H3>
-1. Learn Python in 10 Minutes Python 2.7 Basics.ipynb  <br />
-2. Numpy and Matplotlib Tutorial - Numpy and matplotlib.ipynb <br />
-3. Pandas tutorial - Pandas Tutorial.ipynb <br />
-4. Sklearn linear regression - Sklearn Tutorial Housing Example. ipynb <br />
-5. Sklearn Random Forest Classifier - Handwriting Recogntion.ipynb <br />
-6. Machine Learning with Text Count Vectorizer - Text Analytics cv.ipynb <br />
-7. Machine Learning with Text TF- IDF. Text Analytics tfidf.ipynb <br />
-8. Live Sentiment Analysis - livesenti.py <br />
-9. Perceptron And Gradient Descent - Perceptron And Gradient Descent.ipnb<br/> 
-10. Neural Networks and Backpropogation Algorithm - Neural Networks and backpropogation.ipnb <br/>
+<H3>Python for Data Analytics</H3> <br />
+1. [Learn Python in 10 Minutes](../master/Python%202.7%20Basics.ipynb)  <br />
+2. [Numpy and Matplotlib Tutorial](../master/Numpy%20and%20matplotlib.ipynb) <br />
+3. [Pandas tutorial](../master/Pandas%20Tutorial.ipynb) <br />
+4. [Sklearn linear regression](../master/Sklearn%20Tutorial%20-%20Housing%20example.ipynb) <br />
+5. [Sklearn Random Forest Classifier](../master/Handwriting%20Recognition.ipynb) <br />
+6. [Machine Learning with Text Count Vectorizer](../master/Text%20Analytics%20CV.ipynb)<br />
+7. [Machine Learning with Text TF- IDF](../master/Text%20Analytics%20tfidf.ipynb) <br />
+8. [Live Sentiment Analysis](../master/livesenti.py) <br />
+9. [Perceptron And Gradient Descent](../master/Perceptron%20and%20Gradient%20Descent.ipynb)<br/> 
+10. [Neural Networks and Backpropogation Algorithm](../master/Neural%20Networks%20and%20BackPropogation.ipynb) <br/>
 
-<H3>Deep Learning with Keras </H3><br />
-1. cnn.py - Convolutional Neural Networks with Keras <br/>
-2. word2vec.py - Word2vec implementation in gensim <br/>
-3. Lstm-rnn.py - simple LSTM implementation with Keras <br />
+<H3>Deep Learning with Keras </H3> <br />
+1. [Convolutional Neural Networks with Keras](../master/cnn.py) <br/>
+2. [Word2vec implementation in gensim](../master/word2vec.py) <br/>
+3. [Simple LSTM implementation with Keras](../master/lstm%20-%20RNN.py) <br />
 
 <br>
 <br>
