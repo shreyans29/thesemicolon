@@ -5,7 +5,7 @@ The youtube link for the tutorials :https://www.youtube.com/c/thesemicolon
 The following Ipython notebooks are available on this repository. 
 
 <H3>Python for Data Analytics </H3>
-1. Learn Python in 10 Minutes -  python 2.7 Basics.ipynb <br />
+1. [Learn Python in 10 Minutes] (.../thesemicolon/Python 2.7 Basics.ipynb)  <br />
 2. Numpy and Matplotlib Tutorial - Numpy and matplotlib.ipynb <br />
 3. Pandas tutorial - Pandas Tutorial.ipynb <br />
 4. Sklearn linear regression - Sklearn Tutorial Housing Example. ipynb <br />
