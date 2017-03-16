@@ -4,7 +4,7 @@ The youtube link for the tutorials :https://www.youtube.com/c/thesemicolon
 
 The following Ipython notebooks are available on this repository. 
 
-Python for Data Analytics
+<H3>Python for Data Analytics </H3>
 1. Learn Python in 10 Minutes -  python 2.7 Basics.ipynb <br />
 2. Numpy and Matplotlib Tutorial - Numpy and matplotlib.ipynb <br />
 3. Pandas tutorial - Pandas Tutorial.ipynb <br />
@@ -16,7 +16,7 @@ Python for Data Analytics
 9. Perceptron And Gradient Descent - Perceptron And Gradient Descent.ipnb<br/> 
 10. Neural Networks and Backpropogation Algorithm - Neural Networks and backpropogation.ipnb <br/>
 
-Deep Learning with Keras <br />
+<H3>Deep Learning with Keras </H3><br />
 1. cnn.py - Convolutional Neural Networks with Keras <br/>
 2. word2vec.py - Word2vec implementation in gensim <br/>
 3. Lstm-rnn.py - simple LSTM implementation with Keras <br />
