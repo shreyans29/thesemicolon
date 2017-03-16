@@ -21,6 +21,7 @@ The following Ipython notebooks are available on this repository.
 2. word2vec.py - Word2vec implementation in gensim <br/>
 3. Lstm-rnn.py - simple LSTM implementation with Keras <br />
 
-
+<br>
+<br>
 Apart from this the datasets used are housing.csv, mnist.csv and smsspam
  
