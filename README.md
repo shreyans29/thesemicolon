@@ -20,6 +20,7 @@ Deep Learning with Keras <br />
 1. [Convolutional Neural Networks with Keras](../master/cnn.py) <br/>
 2. [Word2vec implementation in gensim](../master/word2vec.py) <br/>
 3. [Simple LSTM implementation with Keras](../master/lstm%20-%20RNN.py) <br />
+4. [LSTM implementation details with Keras, Normailzation, Activation, Loss](../master/lstmaccuracy.py) <br />
 
 <br>
 <br>
