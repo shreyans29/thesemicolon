@@ -9,7 +9,7 @@ import numpy as np
 from gensim import corpora, models, similarities
 import pickle
 
-os.chdir("D:\semicolon\Deep Learning\chatbot\");
+os.chdir("D:\semicolon\Deep Learning\chatbot");
 model = gensim.models.Word2Vec.load('word2vec.bin');
 path2="corpus";
 file=open(path2+'/conversation.json');
