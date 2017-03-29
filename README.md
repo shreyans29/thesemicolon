@@ -1,4 +1,5 @@
-#The Semicolon
+<H3>The Semicolon</H3>
+
 This repository contains the Ipython Notebooks to the Data Analytics youtube tutorials on The Semicolon. 
 The youtube link for the tutorials :https://www.youtube.com/c/thesemicolon
 
@@ -21,6 +22,9 @@ Deep Learning with Keras <br />
 2. [Word2vec implementation in gensim](../master/word2vec.py) <br/>
 3. [Simple LSTM implementation with Keras](../master/lstm%20-%20RNN.py) <br />
 4. [LSTM implementation details with Keras, Normailzation, Activation, Loss](../master/lstmaccuracy.py) <br />
+5. [Chatbot Preprocessing](../master/chatbotPreprocessing.py) <br/>
+6. [Chatbot training](../master/chatbotlstmtrain.py) <br/>
+7. [Chatbot Chat](../master/chat.py) <br/>
 
 <br>
 <br>
