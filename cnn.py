@@ -7,6 +7,9 @@ from keras.layers.core import Dense, Dropout, Activation, Flatten
 from keras.layers.convolutional import Convolution2D, MaxPooling2D
 from keras.utils import np_utils
 from keras.preprocessing.image import  img_to_array
+from keras import backend as K
+# Fix for Issue - #3 https://github.com/shreyans29/thesemicolon/issues/3
+K.set_image_dim_ordering('th')
 
 import numpy as np
 
