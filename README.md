@@ -11,6 +11,7 @@ The following Ipython notebooks are available on this repository.
 3. [Pandas tutorial](../master/Pandas%20Tutorial.ipynb) <br />
 4. [Sklearn linear regression](../master/Sklearn%20Tutorial%20-%20Housing%20example.ipynb) <br />
 5. [Sklearn Random Forest Classifier](../master/Handwriting%20Recognition.ipynb) <br />
+6. [Sklearn dimensionality reduction](../master/Dim.%20Reduction.ipynb) <br/>
 6. [Machine Learning with Text Count Vectorizer](../master/Text%20Analytics%20CV.ipynb)<br />
 7. [Machine Learning with Text TF- IDF](../master/Text%20Analytics%20tfidf.ipynb) <br />
 8. [Live Sentiment Analysis](../master/livesenti.py) <br />
