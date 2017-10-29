@@ -17,6 +17,7 @@ The following Ipython notebooks are available on this repository.
 8. [Live Sentiment Analysis](../master/livesenti.py) <br />
 9. [Perceptron And Gradient Descent](../master/Perceptron%20and%20Gradient%20Descent.ipynb)<br/> 
 10. [Neural Networks and Backpropogation Algorithm](../master/Neural%20Networks%20and%20BackPropogation.ipynb) <br/>
+11. [Ensemble Learning] (../master/Ensemble%20Learning.ipynb) <br/>
 
 Deep Learning with Keras <br />
 1. [Convolutional Neural Networks with Keras](../master/cnn.py) <br/>
