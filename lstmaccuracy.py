@@ -25,7 +25,7 @@ model.add(LSTM(leng, input_shape=(1, leng),return_sequences=True,activation='sig
 model.add(LSTM(leng, input_shape=(1, leng),return_sequences=True,activation='sigmoid'))
 model.add(LSTM(leng, input_shape=(1, leng),return_sequences=True,activation='sigmoid'))
 model.compile(loss='mse', optimizer='adam',metrics=['accuracy'])
-model.fit(data, target, nb_epoch=10000, batch_size=50,validation_data=(data,target))
+model.fit(data, target, epochs=10000, batch_size=50,validation_data=(data,target))
 
 
 predict = model.predict(data)
